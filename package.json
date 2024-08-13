@@ -21,9 +21,14 @@
   "dependencies": {
     "@nestjs/common": "^10.3.2",
     "@nestjs/core": "^10.3.2",
+    "@nestjs/microservices": "^10.4.1",
     "@nestjs/platform-express": "^10.3.2",
+    "puppeteer": "^23.0.2",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
     "reflect-metadata": "^0.2.1",
-    "rxjs": "^7.8.1"
+    "rxjs": "^7.8.1",
+    "selenium-webdriver": "^4.23.0"
   },
   "devDependencies": {
     "@nestjs/cli": "^10.3.1",
